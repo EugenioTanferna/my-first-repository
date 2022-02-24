@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+
+.homebarsinviñetas {
+    list-style-type: none;
+}
+
+img {
+    border-radius: 5px;
+    border: 3px solid rosybrown; 
+    margin: 1px 40px;
+    box-shadow: 2px 4px 15px 2px violet;
+}
+
+.class-font {
+    font-size: 25px;
+    font-family: 'Fascinate Inline', cursive;
+    line-height: 1;
+    font-weight: 100;
+    color: violet;
+}
+
+.navbarr{
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 25px;
+    color: aquamarine;
+    margin-bottom: 100px;
+    background-color: pink;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: 'Fascinate Inline', cursive;
+    font-weight: 100;
+    color: rgb(174, 43, 179);
+    padding-top: 10px;
+    padding-bottom: 5px;
+    text-shadow: 2px 4px 15px violet;
+}
+
+li {
+    display: inline;
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 30px;
+}
+
+h2 {
+    color: blueviolet;
+    margin: 10px 1px;
+    font-family: 'Fascinate Inline', cursive;
+}
+
+.clash31{
+    color: rgb(70, 20, 117);
+    margin: 1px 10em;
+    height: 100px;
+    font-family: monospace;
+
+}
+
+.clash32{
+    color: rgb(70, 20, 117);
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nfts {
+    color: violet;
+    font-family: fantasy;
+    margin-bottom: 20px;
+    margin-right: 150px;
+}
+
+.nfts-cont{
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: flex-end;
+}
+
+.odm {
+    color: violet;
+    font-family: fantasy;
+    margin-bottom: 20px;
+    margin-left: 80px;
+
+}
+
+.odm-cont{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.divs {
+    margin: 50;
+}
+
+.inlineb {
+    display: inline-block;
+    margin-left: 150px;
+    margin-right: 80px;
+}
+
+iframe {
+    border-radius: 5px;
+    border: 3px solid rosybrown; 
+    box-shadow: 2px 4px 15px 2px violet;
+}
+
+.pwmargin {
+    display: block;
+    margin-bottom: 100px;
+}
+
+.classinput {
+    font-style: italic;
+    background-color: rgb(253, 203, 211);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid violet;
+}
+
+footer {
+    border: 0;
+}
